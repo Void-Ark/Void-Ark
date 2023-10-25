@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Ark Singh Shakya
 #### I am Python Enthusiast
-I am a 3rd year B.Tech (Computer Science and Engineering Student).
+I am a 4th year B.Tech (Computer Science and Engineering Student) from PSIT kanpur.
 
-Skills: Python / postgreSQL / C / C++ / HTML / CSS / FastAPI / React JS
+Skills: Python / PostgreSQL / C / C++ / HTML / CSS / FastAPI / React JS
 
 - 🔭 I’m currently working on FastAPI and React JS 
 - 🌱 I’m currently learning FastAPI. 
